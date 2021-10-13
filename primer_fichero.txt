@@ -1,2 +1,2 @@
 contenido del primer archivo
-Otro contenido
+Otro contenido 22
